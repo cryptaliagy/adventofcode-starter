@@ -30,6 +30,7 @@ Run `cargo run -- --help` from the command line to see the documentation for the
    - Puzzle solution output
 1. A `lib.rs` that references the `day_one` module.
 1. A bare-bones `day_one.rs`.
+1. A basic Github Actions workflow file for running automated tests
 
 ## Opting out of logging/timing setup
 

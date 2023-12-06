@@ -10,6 +10,7 @@ There is also a basic shell for Day 1 to show how the interface works.
 1. If you're just starting out with Rust, I recommend checking out the [Rust book](https://doc.rust-lang.org/book/), but there are other Rust-based resources out there that might be more your style! Another popular place to get support is [r/LearnRust](https://www.reddit.com/r/learnrust/), and there are books from big publishers like O'Reilly, and videos from platforms like PluralSight that can help
 1. If you would like to use external packages (which Rust calls 'crates'), you can check out [crates.io](https://crates.io/) to search, and [docs.rs](https://docs.rs/) for documentation. For most of the 'standard' things, there is also a community-maintained list of recommended packages available at [blessed.rs](https://blessed.rs/crates)
 1. Check out the [Advent of Code day 1](https://adventofcode.com/2023/day/1) problem, and start writing your solution in the [day one source file](src/day_one.rs)
+1. Update the [LICENSE](/LICENSE) file with your name
 
 ## Getting your results
 

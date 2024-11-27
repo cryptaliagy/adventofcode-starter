@@ -4,7 +4,7 @@ use clap::Parser;
 #[cfg(feature = "logging")]
 use tracing::{error, info};
 
-/// Advent of Code 2023 - A Rust CLI for solving Advent of Code 2023 puzzles.
+/// Advent of Code 2024 - A Rust CLI for solving Advent of Code 2024 puzzles.
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
 struct Cli {

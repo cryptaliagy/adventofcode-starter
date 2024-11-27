@@ -7,7 +7,7 @@ use std::time::Duration;
 ///
 /// ```
 /// # use std::time::Duration;
-/// # use adventofcode2023::utils::format_duration;
+/// # use adventofcode2024::utils::format_duration;
 ///
 /// let duration = Duration::from_millis(1005);
 /// let milliduration = Duration::from_micros(1005);

@@ -1,4 +1,4 @@
-use adventofcode2023::*;
+use adventofcode2024::*;
 use clap::Parser;
 
 #[cfg(feature = "logging")]
